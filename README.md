@@ -1,4 +1,4 @@
-# 1TDSA-ML-2S-GS
+<h1 align="center">1TDSA-ML-2S-GS</h1>
 
 <div align="center">
     <img src="regplot.png" alt="grafico de previsao">
